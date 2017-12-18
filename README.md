@@ -1,4 +1,4 @@
-# Your size is avaliable eventually
+# Your size is available eventually
 A simple crawler helps my friend buy his clothes in time
 
 This code will search a web endless and if a suitable size could been found, then it will remind you by wechat.
